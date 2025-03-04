@@ -1,6 +1,6 @@
 # Scripting
 A collection of Python scripts for automation,
-
+![gabriel-heinzer-g5jpH62pwes-unsplash](https://github.com/user-attachments/assets/281a3df7-3d1d-485e-8dff-83fe9aaf25c7)
 
 ## Description
 Welcome to the **Scripting** repository! This project is a collection of Python scripts designed to simplify tasks, automate processes, and provide efficient solutions to real-world problems. Each script is modular, reusable, and built with clarity and scalability in mind.
